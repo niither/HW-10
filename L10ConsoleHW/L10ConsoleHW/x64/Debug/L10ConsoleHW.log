@@ -1,0 +1,5 @@
+﻿  L10ConsoleHW.cpp
+C:\Users\user\Desktop\STEP\cpp\L10ConsoleHW\Header.h(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'L10ConsoleHW.cpp')
+  
+  L10ConsoleHW.vcxproj -> C:\Users\user\Desktop\STEP\cpp\L10ConsoleHW\x64\Debug\L10ConsoleHW.exe
